@@ -51,7 +51,7 @@ A scatter plot was created to visualize the clustering results, plotting Annual 
 Evaluation:
 The silhouette score, a metric for evaluating the quality of clustering, was calculated to be approximately 0.44, indicating moderately well-defined clusters.
 
-Conclusion and Recommendations
+### Conclusion and Recommendations
 The customer segmentation project successfully categorized customers into five distinct groups based on their Annual Income and Spending Score. These insights provide valuable opportunities for targeted marketing and tailored services:
 
 High-income, high-spending customers to be prioritized for premium offerings and loyalty programs.
