@@ -1,5 +1,8 @@
 ## Customer Segmentation Model - Bethel Stores
 
+![image](https://github.com/user-attachments/assets/7fdf92c6-b56f-477f-9b14-bbce58205a6a)
+
+
 ### Project Description:
 
 Bethel Stores is a popular electronics retail chain that specializes in the sale of mobile phones, tablets, laptops, and other related accessories. The company was founded in 2020 and has since grown to become one of the largest retailers of mobile phones and related products in the country. Bethel Stores offers a wide range of mobile phones from top brands such as Samsung, Apple, Nokia, and Huawei, among others. The company is also known for its after sales support, including repairs and maintenance services, as well as trade in options for old devices. With its numerous outlets nationwide, Bethel Stores is a go to destination for many seeking to purchase mobile phones and related accessories.
